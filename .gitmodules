@@ -1,0 +1,3 @@
+[submodule "Firmware/Source Code"]
+	path = Firmware/Source Code
+	url = https://github.com/zerobinhi/ESP32-SI523-SI14TP.git
